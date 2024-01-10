@@ -5,6 +5,5 @@ export default function Outspace() {
         <div className='h-screen'>
             <Spline scene="https://prod.spline.design/OrWIV6jINkU6p3mz/scene.splinecode" />
         </div>
-        
     );
 }
